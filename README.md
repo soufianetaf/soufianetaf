@@ -93,6 +93,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DataCamp-Data%20Engineer%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals%20DP--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Microsoft-Azure%20DataBricks%20DP--750-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
